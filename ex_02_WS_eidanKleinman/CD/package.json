@@ -1,0 +1,11 @@
+{
+  "name": "CD",
+  "version": "1.0.0",
+  "description": "Sold Cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eidan Kleinman",
+  "license": "ISC"
+}
