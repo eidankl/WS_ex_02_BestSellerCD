@@ -1,47 +1,52 @@
-
 {
 	"CDStock":[
 		{
 			"ID":"111",
 			"Name":"Eric Clepton",
-			"Date":"May",
+			"Month":"May",
 			"Price":"88"
 		},
 		{
 			"ID":"222",
 			"Name":"Leonard Cohen",
-			"Date":"June",
+			"Month":"June",
 			"Price":"88"
 		},
 		{
 			"ID":"444",
 			"Name":"John Lenon",
-			"Date":"June",
+			"Month":"June",
 			"Price":"88"
 		},
 		{
 			"ID":"555",
 			"Name":"Arik Ainshtein",
-			"Date":"April",
+			"Month":"April",
 			"Price":"88"
 		},
 		{
 			"ID":"666",
 			"Name":"Elvis Presly",
-			"Date":"June",
+			"Month":"June",
 			"Price":"88"
 		},
 		{
 			"ID":"777",
 			"Name":"Shlomi Shabat ",
-			"Date":"June",
+			"Month":"June",
 			"Price":"88"
 		},
 		{
 			"ID":"888",
 			"Name":"Dudu Tasa",
-			"Date":"April",
+			"Month":"April",
 			"Price":"88"
+		},
+		{
+			"ID":"999",
+			"Name":"John Lenon",
+			"Month":"June",
+			"Price":"880"
 		}
 	]
 }
