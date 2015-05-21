@@ -1,5 +1,0 @@
-http://localhost:3000/getCDByMonth?Date=April
-
-http://localhost:3000/getCD
-
-http://localhost:3000/getCDByMonthAndName?Date=April&&Name=Arik%20Ainshtein
